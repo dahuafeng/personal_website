@@ -15,11 +15,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Pekung University
+  - name: Peking University
     url: https://pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
